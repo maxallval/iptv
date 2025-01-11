@@ -12,5 +12,8 @@ https://a.datadiff.us.kg/movies/The%20Lion%20King%20%281994%29/The%20Lion%20King
 #EXTINF:-1 tvg-type="serie" tvg-logo="https://image.tmdb.org/t/p/original/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg" tvg-name="Lion King [1995]" group-title="[MOVIES] Disney Movies", Lion King [1995]
 https://a.datadiff.us.kg/movies/The%20Lion%20King%20%281994%29/The%20Lion%20King%20%281994%29%20Diamond%20Edition%20%281080p%20BDRip%20x265%2010bit%20EAC3%205.1%20-%20Goki%29-xpost.mkv
 
-#EXTINF:-1 group-title="Canada" tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png", RDS
+#EXTINF:-1 group-title="[LIVE] Sports" tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png",RDS
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium839/index.m3u8
