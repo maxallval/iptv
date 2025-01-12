@@ -41,3 +41,6 @@ https://xyzdddd.mizhls.ru/lb/premium44/index.m3u8
 #EXTVLCOPT:http-origin=https://cookiewebplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 group-title="[LIVE] Sports" tvg-id="TVA SPORTS" tvg-name="TVA SPORTS" , TVA SPORTS
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
